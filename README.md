@@ -19,12 +19,15 @@ The app's design is based on Scrimba's provided design, with some personal modif
 ## Live Preview
 
 First employee card
+
 ![Live Preview](./preview/preview_initial.png)
 
 Hover state
+
 ![Live Preview](./preview/preview_hover.png)
 
 Second employee card
+
 ![Live Preview](./preview/preview_next.png)
 
 ## Features
