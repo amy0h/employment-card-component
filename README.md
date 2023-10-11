@@ -3,6 +3,7 @@
 This is a simple React application that allows you to view employee details and navigate between employee cards. Built with React and Tailwind.
 
 ## Table of Contents
+
 - [Design](#design)
 - [Live Preview](#live-preview)
 - [Features](#features)
@@ -11,17 +12,28 @@ This is a simple React application that allows you to view employee details and 
 - [Links](#links)
 
 ## Design
+
 The app's design is based on Scrimba's provided design, with some personal modifications.
 ![Design Preview](./design/design.png)
 
 ## Live Preview
-![Live Preview](./preview/preview.png)
+
+First employee card
+![Live Preview](./preview/preview_initial.png)
+
+Hover state
+![Live Preview](./preview/preview_hover.png)
+
+Second employee card
+![Live Preview](./preview/preview_next.png)
 
 ## Features
+
 - View employee cards with details such as name, date of birth, and role.
 - Navigate between employee cards using buttons.
 
 ## Project Structure and Modularity
+
 To enhance the maintainability and reusability of the project, I've adopted a modular approach:
 
 ### `Card` Component
