@@ -20,7 +20,7 @@ function App() {
   };
 
   return (
-    <div className='h-screen bg-gray-600 flex items-center justify-center px-10 gap-3'>
+    <div className='h-screen bg-blue-200 flex items-center justify-center px-10 gap-3'>
       <div
         className='cursor-pointer bg-white opacity-50 rounded-full p-4
         flex items-center justify-center hover:opacity-90'
