@@ -50,5 +50,5 @@ To keep the employee data organized and separated from the application's logic, 
 The combination of a modular `Card` component and a separate data file ensures that the project remains flexible and can be extended or reused in various contexts.
 
 ## Links
-- Live site: (https://employment-card-viewer.netlify.app/)
+- Live site: (https://employment-card-viewer-amy0h.netlify.app)
 - Github repository: (https://github.com/amy0h/employment-card-viewer)
